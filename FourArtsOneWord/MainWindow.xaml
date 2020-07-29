@@ -1,0 +1,17 @@
+﻿<Window x:Class="FourArtsOneWord.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FourArtsOneWord"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Lvl1" Content="Уровень первый" HorizontalAlignment="Left" Margin="105,195,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.736,-1.556" Click="Lvl1_Click"/>
+        <Button x:Name="Lvl2" Content="Уровень второй" HorizontalAlignment="Left" Margin="108,238,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Lvl3" Content="Уровень третий" HorizontalAlignment="Left" Margin="110,289,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Lvl4" Content="Уровень четвертый" HorizontalAlignment="Left" Margin="108,337,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>
