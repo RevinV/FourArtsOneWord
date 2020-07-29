@@ -25,17 +25,18 @@ namespace FourArtsOneWord
         {
             startWindow = this;
             InitializeComponent();
-            
 
-            
-
+            int i = 1;
+            foreach(Level level in LvlManager.GetLevels())
+            {
+                Button button = new Button();
+                button.Content = "Уровень " + (i++);
+                button.Height = 30;
+                button.Click += (object sender, RoutedEventArgs e) => { LvlManager.createLvlPage(level).Show(); this.Close(); };
+                LevelsPlace.Children.Add(button);
+            }
         }
 
-        private void Lvl1_Click(object sender, RoutedEventArgs e)
-        {
-            LevelOne lvl1 = new LevelOne();
-            this.Close();
-            LevelOne.lvl1.Show();
-        }
+        
     }
 }

@@ -1,5 +1,4 @@
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\FourArtsOneWord.csprojAssemblyReference.cache
-C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\LevelOne.g.cs
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\FourArtsOneWord_MarkupCompile.cache
@@ -10,7 +9,6 @@ C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\bin\Debug\netcore
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\bin\Debug\netcoreapp3.1\FourArtsOneWord.runtimeconfig.dev.json
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\bin\Debug\netcoreapp3.1\FourArtsOneWord.dll
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\bin\Debug\netcoreapp3.1\FourArtsOneWord.pdb
-C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\LevelOne.baml
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\MainWindow.baml
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\FourArtsOneWord.g.resources
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\FourArtsOneWord.AssemblyInfoInputs.cache
@@ -19,3 +17,5 @@ C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcore
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\FourArtsOneWord.dll
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\FourArtsOneWord.pdb
 C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\FourArtsOneWord.genruntimeconfig.cache
+C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\LvlPage.g.cs
+C:\Users\acer\Desktop\c sharph\FourArtsOneWord\FourArtsOneWord\obj\Debug\netcoreapp3.1\LvlPage.baml

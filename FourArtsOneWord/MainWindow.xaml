@@ -6,12 +6,6 @@
         xmlns:local="clr-namespace:FourArtsOneWord"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button x:Name="Lvl1" Content="Уровень первый" HorizontalAlignment="Left" Margin="105,195,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.736,-1.556" Click="Lvl1_Click"/>
-        <Button x:Name="Lvl2" Content="Уровень второй" HorizontalAlignment="Left" Margin="108,238,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="Lvl3" Content="Уровень третий" HorizontalAlignment="Left" Margin="110,289,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="Lvl4" Content="Уровень четвертый" HorizontalAlignment="Left" Margin="108,337,0,0" VerticalAlignment="Top"/>
+    <StackPanel x:Name="LevelsPlace" Margin="472,10,0,0" Height="404" VerticalAlignment="Top" HorizontalAlignment="Left" Width="286"/>
 
-
-    </Grid>
 </Window>
